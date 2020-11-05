@@ -6,3 +6,5 @@
 I'm currently enrolled on a Master degree after 3 years of working as a web developer.
 
 Let's build great things together 🌱
+
+![](https://komarev.com/ghpvc/?username=VictorGreco&color=brightgreen&label=roosters)
