@@ -9,5 +9,5 @@ Let's build great things together 🌱
 
 ![](https://komarev.com/ghpvc/?username=VictorGreco&color=brightgreen&label=nuggets)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgreco)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgreco&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
