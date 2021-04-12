@@ -3,7 +3,7 @@
 
 ### Welcome to my 🏡
 
-I'm currently enrolled on a Master degree after 3 years of working as a web developer.
+I'm currently enrolled on a Master degree after 3 years of working as a Fullstack developer.
 
 Let's build great things together 🌱
 
