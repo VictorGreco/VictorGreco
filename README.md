@@ -4,6 +4,7 @@
 
 > I'm Victor and I'm a Software Engineer based on Barcelona, Spain. 
 > I love to code on my free time and make people's projects become true.
+> Let's build great things together 🌱
 
 </br>
 
@@ -39,10 +40,6 @@
 
 <p align='center'>
   <a href='https://ko-fi.com/B0B6AA7M1' target='_blank'><img height='30' style='border:0px;height:30px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</p>
-
-<p align='center'>
-    Let's build great things together 🌱
 </p>
 
 ![](https://komarev.com/ghpvc/?username=VictorGreco&color=brightgreen&label=nuggets) 
